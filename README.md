@@ -1,1 +1,2 @@
-# Image_filtering_studio
+"# image-fliters-Histogram-Equalization" 
+"# image-fliters" 
